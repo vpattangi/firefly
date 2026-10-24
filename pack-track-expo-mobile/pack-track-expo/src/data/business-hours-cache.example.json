@@ -1,0 +1,6 @@
+{
+  "generatedAt": "2026-10-23T00:00:00.000Z",
+  "refreshAfterDays": 7,
+  "note": "Example structure only. Replace with business-hours data obtained through an authorized Google Places API workflow and review applicable Google Maps Platform caching/storage terms.",
+  "businesses": []
+}
